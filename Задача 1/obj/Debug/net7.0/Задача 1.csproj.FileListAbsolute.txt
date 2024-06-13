@@ -1,0 +1,14 @@
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\bin\Debug\net7.0\Задача 1.exe
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\bin\Debug\net7.0\Задача 1.deps.json
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\bin\Debug\net7.0\Задача 1.runtimeconfig.json
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\bin\Debug\net7.0\Задача 1.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\bin\Debug\net7.0\Задача 1.pdb
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\Задача 1.AssemblyInfoInputs.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\Задача 1.AssemblyInfo.cs
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\Задача 1.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\refint\Задача 1.dll
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\Задача 1.pdb
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\Задача 1.genruntimeconfig.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Proekt1\Задача 1\obj\Debug\net7.0\ref\Задача 1.dll
